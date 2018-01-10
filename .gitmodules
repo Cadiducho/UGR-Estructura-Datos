@@ -1,0 +1,3 @@
+[submodule "QuienEsQuien"]
+	path = QuienEsQuien
+	url = https://github.com/Cadiducho/QuienEsQuien.git

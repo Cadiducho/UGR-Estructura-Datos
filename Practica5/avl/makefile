@@ -1,5 +1,6 @@
 INCLUDE = .
 
-usoavl : usoavl.cpp 
-	g++  -o usoavl -I$(INCLUDE) usoavl.cpp 
+usoAVL : usoAVL.cpp 
+	g++ -g -o usoAVL -I$(INCLUDE) usoAVL.cpp 
+
 
